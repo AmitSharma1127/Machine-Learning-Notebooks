@@ -8,3 +8,5 @@ Dataset: https://www.kaggle.com/jessemostipak/hotel-booking-demand
 2. Digit Recognizer (MNIST) using CNN
 Kaggle Notebook Link: https://www.kaggle.com/amsharma7/mnist-pytorch-for-beginners-detailed-desc/edit/run/32702984
 Dataset: https://www.kaggle.com/c/digit-recognizer
+3. Logo Detection using Tensorflow Object Detection API - McDonald's Logo
+
