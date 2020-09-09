@@ -9,4 +9,6 @@ Dataset: https://www.kaggle.com/jessemostipak/hotel-booking-demand
 Kaggle Notebook Link: https://www.kaggle.com/amsharma7/mnist-pytorch-for-beginners-detailed-desc/edit/run/32702984
 Dataset: https://www.kaggle.com/c/digit-recognizer
 3. Logo Detection using Tensorflow Object Detection API - McDonald's Logo
-
+4. FER (Facial Keypoint Detection) using Keras
+Kaggle Notebook Link: https://www.kaggle.com/amsharma7/fer-keras
+Dataset: https://www.kaggle.com/msambare/fer2013
